@@ -248,6 +248,6 @@ done
 
 # -----------------------------------------------------------------------------
 # Interpretation of the results can be done by examining the CSV file directly
-# or graphing them. I've found that importing the data into sheets.google.com
-# and tweaking the line graph settings makes for a reasonably satisfying output.
+# or graphing them. See https://github.com/mickeys/gnuplot for various ways to
+# quickly and easily use gnuplot to generate very satisfying output.
 # -----------------------------------------------------------------------------
